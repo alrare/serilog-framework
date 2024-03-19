@@ -1,0 +1,13 @@
+C:\Users\Propietario\Desktop\SerilogConsoleFramework4.6\Console\Console\obj\Debug\Console.csproj.AssemblyReference.cache
+C:\Users\Propietario\Desktop\SerilogConsoleFramework4.6\Console\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\Desktop\SerilogConsoleFramework4.6\Console\Console\bin\Debug\Console.exe.config
+C:\Users\Propietario\Desktop\SerilogConsoleFramework4.6\Console\Console\bin\Debug\Console.exe
+C:\Users\Propietario\Desktop\SerilogConsoleFramework4.6\Console\Console\bin\Debug\Console.pdb
+C:\Users\Propietario\Desktop\SerilogConsoleFramework4.6\Console\Console\bin\Debug\Serilog.dll
+C:\Users\Propietario\Desktop\SerilogConsoleFramework4.6\Console\Console\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\Propietario\Desktop\SerilogConsoleFramework4.6\Console\Console\bin\Debug\Serilog.xml
+C:\Users\Propietario\Desktop\SerilogConsoleFramework4.6\Console\Console\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\Propietario\Desktop\SerilogConsoleFramework4.6\Console\Console\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\Propietario\Desktop\SerilogConsoleFramework4.6\Console\Console\obj\Debug\Console.csproj.Up2Date
+C:\Users\Propietario\Desktop\SerilogConsoleFramework4.6\Console\Console\obj\Debug\Console.exe
+C:\Users\Propietario\Desktop\SerilogConsoleFramework4.6\Console\Console\obj\Debug\Console.pdb

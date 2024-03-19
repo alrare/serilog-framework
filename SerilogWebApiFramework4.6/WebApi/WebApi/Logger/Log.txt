@@ -1,0 +1,6 @@
+
+2024-03-18 20:28:02.104 -06:00 [INF] Este es un log de prueba de WebApi con Net Framework 4.6
+2024-03-18 20:28:05.056 -06:00 [WRN] Los valores son 2 and 0
+2024-03-18 20:28:05.076 -06:00 [ERR] Ocurrio un error
+System.DivideByZeroException: Intento de dividir por cero.
+   en WebApi.Controllers.HomeController.Index() en C:\Users\Propietario\Desktop\SerilogWebApiFramework4.6\WebApi\WebApi\Controllers\HomeController.cs:línea 28

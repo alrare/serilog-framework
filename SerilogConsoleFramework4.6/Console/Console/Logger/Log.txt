@@ -1,0 +1,10 @@
+2024-03-18 20:25:46.523 -06:00 [INF] Este es un log de prueba de Consola con Net Framework 4.6
+2024-03-18 20:25:46.536 -06:00 [WRN] Los valores son 2 and 2
+2024-03-18 20:25:46.558 -06:00 [ERR] Ocurrio un error
+System.DivideByZeroException: Intento de dividir por cero.
+   en Console.Program.Main(String[] args) en C:\Users\Propietario\Desktop\SerilogConsoleFramework4.6\Console\Console\Program.cs:línea 23
+2024-03-18 20:26:34.477 -06:00 [INF] Este es un log de prueba de Consola con Net Framework 4.6
+2024-03-18 20:26:34.490 -06:00 [WRN] Los valores son 2 and 0
+2024-03-18 20:26:34.513 -06:00 [ERR] Ocurrio un error
+System.DivideByZeroException: Intento de dividir por cero.
+   en Console.Program.Main(String[] args) en C:\Users\Propietario\Desktop\SerilogConsoleFramework4.6\Console\Console\Program.cs:línea 23
